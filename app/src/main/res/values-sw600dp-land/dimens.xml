@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<dimen name="activity_horizontal_margin">32dp</dimen>-->
+
+    <dimen name="cal_input_width">104dp</dimen>
+    <dimen name="cal_btn_size">96dp</dimen>
+    <dimen name="cal_btn_textSize">28sp</dimen>
+    <dimen name="cal_paddin">16dp</dimen>
+    <dimen name="letra">24dp</dimen>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorbarra">#EEEEEE</color>
+    <color name="colorname">#424242</color>
+    <color name="duskYellow">#FFEB3B</color>
+    <color name="lightGrey">#9E9E9E</color>
+    <color name="transparent">#80000000</color>
+    <color name="rojotransp">#CCFF0000</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="white">#fff</color>
+    <color name="white50">#FAFAFA</color>
+    <color name="white100">#F5F5F5</color>
+    <color name="white200">#EEEEEE</color>
+    <color name="grey100">#F5F5F5</color>
+    <color name="grey300">#E0E0E0</color>
+    <color name="grey400">#BDBDBD</color>
+    <color name="semiblanco">#E0E0E0</color>
+    <color name="black">#000000</color>
+    <color name="link_blue">#4d94ff</color>
+    <color name="darkRed">#cc0000</color>
+    <color name="red">#E53935</color>
+    <color name="pink600">#D81B60</color>
+
+    <color name="refresh">#cc0000</color>
+    <color name="red600">#E53935</color>
+    <color name="refresh1">#303F9F</color>
+
+    <color name="lime900">#9E9D24</color>
+    <color name="refresh2">#ccf</color>
+    <color name="buscador">#999999</color>
+    <color name="startblue">#5c6bc0</color>
+    <color name="endblue">#0bcce6</color>
+    <color name="green500">#4CAF50</color>
+    <color name="green700">#388E3C</color>
+    <color name="green900">#1B5E20</color>
+    <color name="orange300">#FFB74D</color>
+    <color name="orange400">#FFA726</color>
+    <color name="orange500">#FF9800</color>
+    <color name="orange700">#F57C00</color>
+    <color name="orangea700">#FF9100</color>
+    <color name="orange900">#E65100</color>
+    <color name="red400">#EF5350</color>
+    <color name="amber700">#FFA000</color>
+    <color name="deeporange400">#FF7043</color>
+    <color name="deeporange700">#E64A19</color>
+    <color name="cafe600">#6D4C41</color>
+    <color name="bluegrey300">#90A4AE</color>
+    <color name="bluegrey700">#455A64</color>
+    <color name="cyan800">#00838F</color>
+    <color name="teal700">#00897B</color>
+    <color name="teal500">#009688</color>
+    <color name="teal600">#00897B</color>
+
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="lightgray">#ededed</color>
+
+
+
+    <color name="green2">#4CAF50</color>
+    <color name="orange">#F4511E</color>
+    <color name="bluelight">#3F51B5</color>
+    <color name="indigo600">#3949AB</color>
+    <color name="indigo700">#303f9f</color>
+    <color name="indigo800">#283593</color>
+    <color name="colorprimary2">#263238</color>
+    <color name="colorsemiblanco">#F5F5F5</color>
+    <color name="semiblanco2">#EEEEEE</color>
+</resources>

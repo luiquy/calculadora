@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Calduladora</string>
+    <string name="cal_hint_input">Introduce tu transacción</string>
+    <string name="cal_bt_siete">7</string>
+    <string name="cal_bt_punto">.</string>
+    <string name="cal_bt_cuatro">4</string>
+    <string name="cal_bt_uno">1</string>
+    <string name="cal_bt_cero">0</string>
+    <string name="cal_bt_dos">2</string>
+    <string name="cal_bt_cinco">5</string>
+    <string name="cal_bt_ocho">8</string>
+    <string name="cal_bt_nueve">9</string>
+    <string name="cal_bt_limpiar">C</string>
+    <string name="cal_bt_seis">6</string>
+    <string name="cal_bt_dividir">÷</string>
+    <string name="cal_bt_multiplicar">x</string>
+    <string name="dividir">18dp</string>
+    <string name="cal_bt_tres">3</string>
+    <string name="cal_bt_menos">-</string>
+    <string name="cal_bt_mas">+</string>
+    <string name="cal_bt_resultado">=</string>
+    <string name="message_exp_incorrect">La expreción es incorrecta</string>
+</resources>
